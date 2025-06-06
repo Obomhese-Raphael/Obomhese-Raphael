@@ -106,13 +106,3 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=obomhese-raphael&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="obomhese-raphael" />
 </div>
-
-## 🐍 Contribution Snake
-<div align="center">
-  <img src="https://github.com/obomhese-raphael/obomhese-raphael/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
-</div>
-
----
-<div align="center">
-  <i>⭐️ From [Obomhese Raphael](https://github.com/obomhese-raphael)</i>
-</div>
